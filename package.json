@@ -2,8 +2,6 @@
   "name": "smapp-apps",
   "version": "1.0.0",
   "description": "smapp-apps free saas template",
-  "author": "Themefisher",
-  "license": "MIT",
   "scripts": {
     "dev": "gulp",
     "build": "gulp build"
